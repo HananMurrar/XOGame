@@ -13,3 +13,4 @@ Its simple react project that implements XO game
 
 ##### 4. Open your browser and go to: 
       http://localhost:3000
+      
